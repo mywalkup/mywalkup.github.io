@@ -9,11 +9,11 @@ MyWalkup is a mobile app that helps sports teams create & manage in-game announc
 
 ## Why are my walkups getting cut off when connected to a Bluetooth speaker?
 
-Certain speakers including the JBL PartyBox, have firmware issues where the connection to the phone is not maintained properly and when reconnecting a portion of the audio is cut off when playing. Good news is, in many cases this can be remedied by updating your speaker's firmware. Here are more detailed instructions for JBL speakers: [JBL PartyBox Firmware Instructions]([https://duckduckgo.com](https://www.youtube.com/watch?v=NLnEF4GWLLw&t=35s))
+Certain speakers including the JBL PartyBox, have firmware issues where the connection to the phone is not maintained properly and when reconnecting a portion of the audio is cut off when playing. Good news is, in many cases this can be remedied by updating your speaker's firmware. Here are more detailed instructions for JBL speakers: [JBL PartyBox Firmware Instructions](https://www.youtube.com/watch?v=NLnEF4GWLLw&t=35s)
 
 ## JBL Speaker not playing correctly or getting cut off?
 
-The JBL PartyBox has a known issue that can be resolved by updating it to the latest firmware. Updating is easy but you'll need to download the JBL App. Here are more detailed instructions: [JBL PartyBox Firmware Instructions]([https://duckduckgo.com](https://www.youtube.com/watch?v=NLnEF4GWLLw&t=35s))
+The JBL PartyBox has a known issue that can be resolved by updating it to the latest firmware. Updating is easy but you'll need to download the JBL App. Here are more detailed instructions: [JBL PartyBox Firmware Instructions](https://www.youtube.com/watch?v=NLnEF4GWLLw&t=35s)
 
 ## How do walkup songs work?
 
