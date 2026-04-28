@@ -53,13 +53,14 @@ By opting in to MyWalkup SMS messaging, you agree to the following:
 - **Help:** Reply **HELP** to any MyWalkup message for support information, or contact us at admin@mywalkup.ai.
 - **Message and Data Rates:** Standard message and data rates may apply depending on your mobile carrier and plan.
 - **Carrier Disclaimer:** Carriers are not liable for delayed or undelivered messages.
-- **No Sharing for Marketing:** Your phone number and SMS consent will never be shared with third parties for marketing or promotional purposes.
+- **No Sharing for Marketing:** Your phone number and SMS consent will not be shared with third parties for marketing or promotional purposes.
 
 ## Third-Party Services
 
 - **Firebase (Google)** -- Analytics, crash reports, and push notifications
 - **RevenueCat** -- Manages in-app subscriptions
 - **Apple** -- Processes in-app purchases through App Store
+- **Google** -- Processes in-app purchases through App Store
 - **Twilio** -- Provides SMS messaging infrastructure for transactional notifications and authentication
 
 We do not sell, rent, or share your personal information with third parties for their own marketing purposes. Third-party service providers listed above receive only the data necessary to perform their specific functions on our behalf.
