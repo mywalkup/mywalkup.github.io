@@ -1,4 +1,5 @@
-# Privacy Policy
+# MyWalkup, LLC Privacy Policy
+[MyWalkup.ai Home](https://mywalkup.ai)
 
 **Last updated:** February 12, 2026
 
