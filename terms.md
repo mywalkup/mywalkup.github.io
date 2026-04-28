@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MyWalkup, LLC Terms & Conditions
-[MyWalkup.ai Home](https://mywalkup.ai)
+[MyWalkup Home](https://mywalkup.ai)
 ---
 
 **Last updated:** April 28, 2026
