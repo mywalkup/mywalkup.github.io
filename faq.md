@@ -1,7 +1,5 @@
----
-layout: default
-title: FAQ
----
+# MyWalkup Frequently Asked Questions
+[MyWalkup.ai Home](https://mywalkup.ai)
 
 ## What is MyWalkup?
 
