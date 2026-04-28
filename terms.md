@@ -9,7 +9,7 @@ By accessing or using the Service, you agree to these Terms. If you do not agree
 
 ## 1. About MyWalkup
 
-MyWalkup is a sports and team management application that helps users create, manage, and personalize player walk-up experiences, including team rosters, player profiles, song preferences, audio settings, voice preferences, invitations, and related features.
+MyWalkup is a sports and team management application that helps users create, manage, and personalize in-game player announcements, including team rosters, player profiles, song preferences, audio settings, voice preferences, invitations, and related features.
 
 The Service is intended for use by parents, guardians, coaches, team administrators, players age 13 or older, and other authorized users.
 
@@ -59,7 +59,7 @@ You represent and warrant that:
 
 ## 6. AI-Generated or Automated Content
 
-The Service may include artificial intelligence, automated tools, or other technologies that help generate, customize, suggest, or process walk-up content, player introductions, audio settings, voice preferences, or related materials.
+The Service may include artificial intelligence, automated tools, or other technologies that help generate, customize, suggest, or process announcment content, player introductions, audio settings, voice preferences, or related materials.
 
 AI-generated or automated content may be inaccurate, incomplete, inappropriate, or unsuitable for your intended use. You are responsible for reviewing, editing, approving, and determining whether any generated content is appropriate before using, publishing, sharing, or playing it publicly.
 
@@ -199,7 +199,6 @@ To the fullest extent permitted by law, MyWalkup’s total liability for any cla
 - The amount you paid to MyWalkup in the three months before the claim arose; or
 - One hundred dollars ($100).
 
-Some jurisdictions do not allow certain limitations of liability, so some of the above limitations may not apply to you.
 
 ## 19. Indemnification
 
@@ -236,13 +235,13 @@ Your continued use of the Service after updated Terms become effective means you
 
 ## 23. Governing Law
 
-These Terms are governed by the laws of the State of [Insert State], without regard to its conflict of law rules.
+These Terms are governed by the laws of the State of Utah, without regard to its conflict of law rules.
 
 ## 24. Dispute Resolution
 
 Before filing a claim, you agree to first contact us at admin@mywalkup.ai and attempt to resolve the dispute informally.
 
-If we cannot resolve the dispute informally, any dispute arising out of or relating to these Terms or the Service will be resolved in the state or federal courts located in [Insert County and State], unless otherwise required by law.
+If we cannot resolve the dispute informally, any dispute arising out of or relating to these Terms or the Service will be resolved in the state or federal courts located in Utah County, Utah, unless otherwise required by law.
 
 You consent to the personal jurisdiction and venue of those courts.
 
@@ -262,4 +261,3 @@ If you have questions about these Terms, contact us at:
 
 **MyWalkup, LLC**  
 **Email:** admin@mywalkup.ai  
-**Address:** [Insert Business Address, if applicable]
