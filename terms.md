@@ -3,10 +3,6 @@
 
 **Last updated:** April 28, 2026
 
-# MyWalkup Terms and Conditions
-
-**Last updated:** [Insert Date]
-
 Welcome to MyWalkup. These Terms and Conditions (“Terms”) govern your access to and use of the MyWalkup mobile application, website, products, services, features, content, and related offerings collectively referred to as the “Service.”
 
 By accessing or using the Service, you agree to these Terms. If you do not agree, do not use the Service.
