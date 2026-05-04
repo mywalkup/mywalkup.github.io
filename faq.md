@@ -47,4 +47,4 @@ MyWalkup is currently available on both iOS and Android app stores. Make sure yo
 
 ## How do I contact support?
 
-Email us at admin@mywalkup.ai for any questions or issues.
+Email us at support@mywalkup.ai for any questions or issues.
