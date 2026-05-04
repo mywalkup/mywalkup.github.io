@@ -13,6 +13,10 @@ Certain speakers including the JBL PartyBox, have firmware issues where the conn
 
 The JBL PartyBox has a known issue that can be resolved by updating it to the latest firmware. Updating is easy but you'll need to download the JBL App. Here are more detailed instructions: [JBL PartyBox Firmware Instructions](https://www.youtube.com/watch?v=NLnEF4GWLLw&t=35s)
 
+## Who needs to be a Pro user in order for a team to have Pro access?
+
+The team owner needs to be Pro and if so, the entire team is considered Pro, even if players or managers are not upgraded. The user who created the team is by default the owner, however ownership can be transferred to a team manager.
+
 ## How do walkup songs work?
 
 Each player can have a custom walkup song that plays when they take the field. Select a song from Apple Music or our free song library, choose the exact clip you want to play, and pair it with an AI-generated voice announcement.
