@@ -1,7 +1,7 @@
 # MyWalkup, LLC Privacy Policy
 [MyWalkup.ai Home](https://mywalkup.ai)
 
-**Last updated:** February 12, 2026
+**Last updated:** July 7, 2026
 
 ## Introduction
 
@@ -49,7 +49,7 @@ By opting in to MyWalkup SMS messaging, you agree to the following:
 
 - **Message Types:** MyWalkup sends transactional SMS messages including authentication codes, account access notifications, team invitation alerts, and security notifications.
 - **Message Frequency:** Message frequency varies based on your account activity (e.g., login attempts, team invitations, security events). MyWalkup does not send marketing or promotional messages.
-- **Opt-In:** You may opt in to receive SMS messages by enabling messaging in your MyWalkup account settings, or by providing your phone number when accepting an in-person invitation from a team administrator.
+- **Opt-In:** You may opt in to receive SMS messages by enabling messaging in your MyWalkup account settings, or by providing your phone number when accepting an in-person invitation from a team administrator. A team administrator may also invite a person to join their team by entering that person's phone number in the app. Before the invitation is sent, the administrator confirms they have that person's permission to be contacted, and MyWalkup then sends a single invitation SMS containing a link to accept and join. No further messages are sent to that number unless the recipient joins MyWalkup and opts in.
 - **Opt-Out:** You may opt out of SMS messages at any time by replying **STOP** to any message received from MyWalkup. You may also disable SMS notifications in your account settings within the app. Upon opting out, you will receive a single confirmation message and no further SMS messages will be sent.
 - **Help:** Reply **HELP** to any MyWalkup message for support information, or contact us at admin@mywalkup.ai.
 - **Message and Data Rates:** Standard message and data rates may apply depending on your mobile carrier and plan.
